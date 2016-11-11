@@ -17,7 +17,12 @@
         </activity>
         <activity
             android:name=".MainActivity"
-            android:label="@string/title_activity_welcome"></activity>
+            android:label="@string/title_activity_welcome" />
+        <activity android:name=".HT" />
+        <activity
+            android:name=".ht1"
+            android:label="@string/title_activity_ht1"
+            android:theme="@style/AppTheme"></activity>
     </application>
 
 </manifest>
